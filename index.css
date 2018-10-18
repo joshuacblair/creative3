@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 155, 155);
+    font-family: sans-serif;
+
+}
+
+input {
+    background-color: lightgrey;
+}
+
+.sBox {
+    border: dotted;
+    width: 275px;
+    background-color: rgb(155, 155, 255);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.rBox {
+    transition: all linear;
+    width: 100px;
+     background-color: rgb(155, 155, 255);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+ng-show {
+    width: 100%;
+}
